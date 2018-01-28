@@ -1,0 +1,19 @@
+{
+  "name": "githubtrendingcrawler",
+  "version": "1.0.0",
+  "description": "crawl github treding by language",
+  "main": "app.js",
+  "dependencies": {
+    "crazy-crawler": "^0.1.4",
+    "mongoose": "5.0.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "crawler",
+    "githubTrending"
+  ],
+  "author": "Nathan",
+  "license": "MIT"
+}
